@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+ⓒ 2021 Yumin Cho 
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+Theme forked from [SinglePaged](https://github.com/t413/SinglePaged)
 
