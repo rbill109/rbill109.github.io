@@ -1,0 +1,26 @@
+I"•<hr style="border-top: solid 3px;" />
+
+<h4 class="center"><u>One Week One Paper </u></h4>
+
+<h1 class="center"><strong>OWOP</strong></h1>
+
+<h4 class="center"><em>January - December, 2021</em></h4>
+
+<h4><strong>Paper reading group</strong> from Yonsei University, Department of Statistics &amp; Data Science.</h4>
+<p>It takes place every one week to share interesting <strong>Machine learning and Deep Learning</strong> research papers.</p>
+
+<p>What we have here is</p>
+
+<ul>
+  <li>Computer Vision</li>
+  <li>Natural-Language Processing</li>
+  <li>RecSys</li>
+  <li>Latent Space Model</li>
+  <li>Time-Series Deep Learning</li>
+  <li>Bayesian Neural Networks</li>
+  <li>Tree-based Machine Learning</li>
+</ul>
+
+<p>Check the paper list from Github<a class="list-group-item" href="https://github.com/rbill109/SideProject/tree/main/OWOP"><i class="fa fa-github fa-fw" style="font-size:28px" aria-hidden="true"></i></a></p>
+
+:ET

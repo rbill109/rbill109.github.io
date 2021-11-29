@@ -1,0 +1,49 @@
+I"ª<hr style="border-top: solid 3px;" />
+
+<p class="center"><u>One Week One Paper </u></p>
+<h1 class="center"><strong>OWOP</strong></h1>
+<!-- <a class="list-group-item" href="https://github.com/rbill109/SideProject/tree/main/OWOP"><i class="fa fa-github fa-fw" style="font-size:32px" aria-hidden="true"></i><a>
+{: .center} -->
+
+<div class="list-group center">
+  <a class="list-group-item" href="https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w/featured"><i class="fa fa-youtube-play" style="font-size:32px" aria-hidden="true"></i></a>
+  <a class="list-group-item" href="https://github.com/rbill109/SideProject/tree/main/OWOP"><i class="fa fa-github fa-fw" style="font-size:32px" aria-hidden="true"></i></a>
+</div>
+
+<h4 class="center"><em>January - December, 2021</em></h4>
+<p>This is a <strong>paper reading group seminar</strong> from Yonsei University, Department of Statistics &amp; Data Science. <br />
+It takes place every one week to share interesting <strong>Machine learning and Deep Learning</strong> research papers.</p>
+
+<p>Visit our <strong><a href="https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w/featured">channel</a></strong> to see what weâ€™ve studied.</p>
+
+<p>What we have here is</p>
+
+<ul>
+  <li>Computer Vision</li>
+  <li>Natural-Language Processing</li>
+  <li>RecSys</li>
+  <li>Latent Space Model</li>
+  <li>Time-Series Deep Learning</li>
+  <li>Bayesian Neural Networks</li>
+</ul>
+
+<p><br /></p>
+
+<!-- 
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+</pre></td><td class="code"><pre><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"icontain"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;iframe</span> <span class="na">src=</span><span class="s">"//www.youtube.com/embed/8yis7GzlXNM"</span> <span class="na">allowfullscreen</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<span class="nt">&lt;/div&gt;</span> --&gt;
+
+<span class="c">&lt;!-- </span>
+</pre></td></tr></tbody></table></code></pre></figure>
+ -->
+
+<div class="icontain">
+<iframe src="//www.youtube.com/embed//v6vV505z4Pk" allowfullscreen="">
+</iframe></div>
+:ET
